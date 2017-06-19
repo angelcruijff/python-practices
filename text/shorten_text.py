@@ -1,4 +1,4 @@
-import textwrap
+import textwrap #Modudo textwrap
 
 texto = """
 Texto de muestra para mostrar la funcionalidad
